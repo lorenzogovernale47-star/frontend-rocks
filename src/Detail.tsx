@@ -1,3 +1,3 @@
 export const Detail = () => {
-  return null;
+  return <div>peffoh</div>;
 };
